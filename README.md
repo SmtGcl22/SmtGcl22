@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samet Güçlü</h1>
 <h3 align="center">🎓 3rd year Computer Engineering student </h3>
 <h4 align="center">🤖 Focused on Artificial Intelligence & Machine Learning</h4>
-<h3 align="left">Connect with me:</h3>
+<h5 align="center">🔐 Enthusiastic about Cybersecurity & ethical hacking</h5>
+
 <p align="left">
 </p>
 
