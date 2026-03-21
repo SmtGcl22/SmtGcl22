@@ -14,5 +14,9 @@
 
 <h3 align="center">🐍 My Contribution Graph</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SmtGcl22/SmtGcl22/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmtGcl22/SmtGcl22/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmtGcl22/SmtGcl22/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SmtGcl22/SmtGcl22/output/github-contribution-grid-snake.gif" />
+  </picture>
 </p>
