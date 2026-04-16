@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet Güçlü</h1>
 <h3 align="center">🎓 3rd year Computer Engineering student</h3>
-<h4 align="center">🤖 Focused on Artificial Intelligence & Cybersecurity</h4>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
